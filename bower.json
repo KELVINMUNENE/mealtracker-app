@@ -1,0 +1,17 @@
+{
+  "name": "mealtracker",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Kelvin Munene"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/KELVINMUNENE/mealtracker-app",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
